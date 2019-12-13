@@ -1,0 +1,10 @@
+{
+    "name": "hugo/testinit",
+    "authors": [
+        {
+            "name": "carlos silva",
+            "email": "carloshsilva1989@gmail.com"
+        }
+    ],
+    "require": {}
+}
